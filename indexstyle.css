@@ -1,0 +1,97 @@
+body {
+  background-image: url("https://wallpaperscraft.com/image/sign_spiral_red_black_11280_3840x2160.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black
+}
+
+header {
+  position: relative;
+}
+
+ul.topul {
+  text-align: center;
+}
+
+a {
+  color: red;
+}
+
+li.topli {
+  color: red;
+  text-transform: Uppercase;
+  letter-spacing: 1px;
+  font-size: 18px;
+  display: inline-block;
+  font-family: "Arial Black";
+  background: linear-gradient(#000000, #232323);
+}
+
+img.icon {
+  width: auto;
+  height: 20px;
+  display: inline-block;
+  padding-right: 8px;
+}
+
+button {
+  color: red;
+  text-transform: Uppercase;
+  letter-spacing: 1px;
+  font-size: 18px;
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-family: "Arial Black";
+  background: linear-gradient(#000000, #232323);
+  border: 1px solid black;
+}
+
+button:hover {
+  background: linear-gradient(#000000, #232323, #363636);
+}
+
+h1 {
+  text-align: center;
+  color: #FFFFFF;
+  font-family: "Arial Black";
+}
+
+h3 {
+  text-align: center;
+  color: #FFFFFF;
+  font-family: "verdana";
+}
+
+div {
+  color: #00107f;
+  font-family: "verdana";
+  text-decoration: underline;
+  margin: 0;
+  position: absolute;
+  top: 33%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  border: 3px dotted red;
+}
+
+li.bottomli {
+  color: white;
+  font-size: 14px;
+  display: inline-block;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-family: "verdana";
+}
+
+ul.bottomul {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}

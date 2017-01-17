@@ -1,0 +1,114 @@
+body {
+  background-image: url("https://wallpaperscraft.com/image/sign_spiral_red_black_11280_3840x2160.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black
+}
+
+header {
+  position: relative;
+}
+
+a {
+  color: red;
+}
+
+ul.topul{
+  text-align: center;
+}
+
+li.topli {
+  color: red;
+  text-transform: Uppercase;
+  letter-spacing: 1px;
+  font-size: 18px;
+  display: inline-block;
+  font-family: "Arial Black";
+  background: linear-gradient(#000000, #232323);
+}
+
+img.icon {
+  width: auto;
+  height: 20px;
+  display: inline-block;
+  padding-right: 8px;
+}
+
+button {
+  color: red;
+  text-transform: Uppercase;
+  letter-spacing: 1px;
+  font-size: 18px;
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-family: "Arial Black";
+  background: linear-gradient(#000000, #232323);
+  border: 1px solid black;
+}
+
+button:hover {
+  background: linear-gradient(#000000, #232323, #363636);
+}
+
+h2 {
+  color: #FFFFFF;
+  font-family: "Arial Black";
+  text-align: center;
+  font-size: 28px;
+}
+
+table {
+  margin: auto;
+  position: static;
+  font-size: 16px;
+
+}
+
+img {
+  height: 125px;
+  width: auto;
+}
+
+thead th {
+    background: linear-gradient(#db1a1a, #960000);
+    border: 1px solid black;
+    font-family: "Verdana";
+    font-weight: bold;
+}
+
+td {
+  border: 1px solid black;
+  background: #4c4c4c;
+  font-family: "Verdana";
+  font-weight: bold;
+  font-size: 14px;
+  color: white;
+}
+
+div {
+  color: #00107f;
+  text-decoration: underline;
+  text-align: center;
+
+}
+
+ul.bottomul {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+li.bottomli {
+  color: white;
+  font-size: 14px;
+  display: inline-block;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  font-family: "verdana";
+}
